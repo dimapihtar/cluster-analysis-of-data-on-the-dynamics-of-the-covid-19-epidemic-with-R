@@ -20,5 +20,5 @@ Example of calculated DTW-distances between two time series (countries):
 Comparison between used clustering methods (mds + knn and hclust) using [Rand Index and cintigency table](https://en.wikipedia.org/wiki/Rand_index#:~:text=The%20Rand%20index%20or%20Rand,is%20the%20adjusted%20Rand%20index.).
 
 # Results Interpretation
-Example of hierarchical clustering results researching 25 European countries:
+Example of hierarchical clustering results researching 25 European countries (used service www.mapchart.net/europe.html):
 ![results example](https://github.com/dimapihtar/cluster-analysis-of-data-on-the-dynamics-of-the-covid-19-epidemic-with-R/blob/main/images/hclust.jpg)
